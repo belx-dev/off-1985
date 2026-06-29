@@ -1,3 +1,7 @@
+# Operation Frontier Fury 1985
+
+An experimental fork of [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR) for private use. The plan is to try bringing in as many experimental cutting edge features to this epic masterpciece as possible, just because we can :)
+
 ## Quick Start
 
 ```sh
@@ -31,7 +35,6 @@ On GNU/Linux, use the matching `linux-x64-clang-rwdi` preset.
 The source in this repository is licensed under the **GNU General Public License
 v3.0 *or later***, with additional terms under **Section 7** of the GPL. See [`LICENSE`](LICENSE) for the
 full text.
-This license does not grant you any right to use "ARMA" or any other Bohemia Interactive trademark.
 
 The [`thirdparty/`](thirdparty) directory is **excluded** from the project's GPL
 license: it contains vendored third-party code (glad, the RenderDoc API header)
